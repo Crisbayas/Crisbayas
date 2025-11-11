@@ -7,7 +7,7 @@
 
 &nbsp;***About me***
 
-Hi, soy Cristopher Bayas, tengo 15 años, me gustan los animales, jugar roblox, dormir y comer.
+Tengo 15 años, me gustan los animales, jugar roblox, dormir y comer.
 ## My Skills Include ##
 
 <h4> Languages </h4>
