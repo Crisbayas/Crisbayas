@@ -7,4 +7,5 @@
 
 &nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+Hi, soy Cristophe Bayas, tengo 15 años, me gusta jugar roblox y dormir. Me gusta el encebollado y tomar güitig.
+Aparte de jugar roblox tambien juego ZZZ.
